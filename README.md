@@ -1,2 +1,2 @@
 # craft-cdf-tool
-A tool for unpacking and repacking Craft cdf exported files, along with some supporting utilities.
+Tool(s) for Craft cdf exported files, as they come
